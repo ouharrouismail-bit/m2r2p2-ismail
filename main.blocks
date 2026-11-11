@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="wL+PrdUb1B5^5[CW5$2i" x="0" y="0"></block><block type="device_forever" id="ZHhSHNu%8~@2OIiO):$V" x="230" y="-5"></block><block type="device_temperature" id="G7.I@}[y@MXgT9!Xr:#z" disabled-reasons="pxt_automatic_disabled" x="49" y="383"></block></xml>
